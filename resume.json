@@ -9,15 +9,15 @@
       "aboutme": "个人评价"
     },
     "avatar": {
-      "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-      "hidden": false
+      "src": "",
+      "hidden": true
     },
     "profile": {
-      "name": "廖晓娟 (新茗)",
-      "email": "736xxxx86@qq.com",
-      "mobile": "156xxxx7119",
-      "github": "https://github.com/visiky (1.1k 粉丝)",
-      "zhihu": "https://www.zhihu.com/people/visiky",
+      "name": "冯博涵",
+      "email": "feng.bohan@outlook.com",
+      "mobile": "13811249701",
+      "github": "",
+      "zhihu": "",
       "workExpYear": ""
     },
     "educationList": [
