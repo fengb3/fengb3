@@ -40,24 +40,6 @@
         "academic_degree": "本科"
       }
     ],
-    "awardList": [
-      {
-        "award_info": "英语 CET6",
-        "award_time": "2015"
-      },
-      {
-        "award_info": "蚂蚁近卫军 卓越个人奖",
-        "award_time": "2018.09"
-      },
-      {
-        "award_info": "前端练习生 可视化讲师",
-        "award_time": "2020.10"
-      },
-      {
-        "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-        "award_time": "2021.07"
-      }
-    ],
     "workExpList": [
       {
         "company_name": "蚂蚁集团",
@@ -115,6 +97,24 @@
     "aboutme": {
       "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
     },
+    "awardList": [
+        {
+          "award_info": "英语 CET6",
+          "award_time": "2015"
+        },
+        {
+          "award_info": "蚂蚁近卫军 卓越个人奖",
+          "award_time": "2018.09"
+        },
+        {
+          "award_info": "前端练习生 可视化讲师",
+          "award_time": "2020.10"
+        },
+        {
+          "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
+          "award_time": "2021.07"
+        }
+      ],
     "theme": {
       "color": "#2f5785",
       "tagColor": "#8bc34a"
