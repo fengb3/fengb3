@@ -10,12 +10,12 @@
     "educationList": [
         {
             "edu_time": [
-                "2022.08.01",
+                "2022.08",
                 "2023.09"
             ],
             "school": "东北大学（美国）",
             "major": "信息系统",
-            "academic_degree": "本科",
+            "academic_degree": "硕士",
             "dataIndex": 0
         },
         {
@@ -28,11 +28,13 @@
         },
         {
             "edu_time": [
-                "2016.09 ",
-                " 2020.05"
+                "2016.09",
+                "2020.05"
             ],
             "school": "迈阿密大学",
-            "major": "计算机科学"
+            "major": "计算机科学",
+            "academic_degree": "本科",
+            "dataIndex": 1
         }
     ],
     "awardList": [
